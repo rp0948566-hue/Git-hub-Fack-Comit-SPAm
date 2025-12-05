@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-for /l %%i in (1,1,100000) do (
+for /l %%i in (1,1,3000) do (
     echo Manual update %%i >> activity-log.txt
     git add .
     git commit -m "Manual update %%i"
