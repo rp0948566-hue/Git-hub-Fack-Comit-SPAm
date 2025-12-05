@@ -12,7 +12,7 @@ The goal of this project is to learn and experiment with GitHub Actions, automat
 
 ## How It Works
 
-The automation is handled by a GitHub Actions workflow located in `.github/workflows/activity-bot.yml`. The workflow:
+The automation is handled by a GitHub Actions workflow located in `.github/workflows/activity-bot.yml`. For more info on GitHub Actions, see [GitHub Actions Documentation](https://docs.github.com/en/actions). The workflow:
 
 1. Runs automatically every 15 minutes (configurable via cron schedule)
 2. Checks out the repository
