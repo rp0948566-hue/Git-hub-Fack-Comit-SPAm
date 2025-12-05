@@ -95,3 +95,5 @@ Manual update 84
 Manual update 10 
 Manual update 85 
 Manual update 11 
+Manual update 86 
+Manual update 12 
